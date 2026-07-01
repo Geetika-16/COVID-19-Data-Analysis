@@ -6,14 +6,14 @@ COVID-19 Data Analysis is a data analytics project developed during my internshi
 
 ## 2. Features
 
-Import and analyze COVID-19 dataset.
-Handle missing values and clean the dataset.
-Perform data preprocessing and transformation.
-Conduct Exploratory Data Analysis (EDA).
-Generate statistical summaries of the dataset.
-Create visualizations to identify trends and patterns.
-Extract meaningful insights from COVID-19 data.
-Export the processed dataset for further analysis.
+1. Import and analyze COVID-19 dataset.
+2. Handle missing values and clean the dataset.
+3. Perform data preprocessing and transformation.
+4. Conduct Exploratory Data Analysis (EDA).
+5. Generate statistical summaries of the dataset.
+6. Create visualizations to identify trends and patterns.
+7. Extract meaningful insights from COVID-19 data.
+8. Export the processed dataset for further analysis.
 
 ## 3. Technologies Used
 
