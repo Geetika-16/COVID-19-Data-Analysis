@@ -18,42 +18,43 @@ COVID-19 Data Analysis is a data analytics project developed during my internshi
 ## 3. Technologies Used
 
 ### Programming Language
-Python
+* Python
 
 ### Libraries
-Pandas
-NumPy
-Matplotlib
+* Pandas
+* NumPy
+* Matplotlib
 
 ### Concepts
-Data Cleaning
-Data Preprocessing
-Exploratory Data Analysis (EDA)
-Data Visualization
-Feature Engineering
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Engineering
 
 ## 4. Project Workflow
 
 ### Step 1: Data Collection
-Load the COVID-19 dataset using Pandas.
+* Load the COVID-19 dataset using Pandas.
 
 ### Step 2: Data Cleaning
-Handle missing values.
-Remove inconsistencies and duplicate records.
+* Handle missing values.
+* Remove inconsistencies and duplicate records.
 
 ### Step 3: Data Preprocessing
-Convert data into suitable formats.
-Process date and numerical columns.
+* Convert data into suitable formats.
+* Process date and numerical columns.
 
 ### Step 4: Exploratory Data Analysis
-Analyze dataset statistics.
-Identify trends and relationships.
+* Analyze dataset statistics.
+* Identify trends and relationships.
 
 ### Step 5: Data Visualization
-Create charts and graphs to represent COVID-19 trends.
-Compare different attributes visually.
+* Create charts and graphs to represent COVID-19 trends.
+* Compare different attributes visually.
+
 ### Step 6: Data Export
-Save the processed dataset for future use.
+* Save the processed dataset for future use.
 
 ## 5. Outcome
 
