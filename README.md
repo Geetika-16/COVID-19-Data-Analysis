@@ -56,6 +56,12 @@ COVID-19 Data Analysis is a data analytics project developed during my internshi
 ### Step 6: Data Export
 * Save the processed dataset for future use.
 
-## 5. Outcome
+## 5. Business Insights
+* GDP per capita & HDI correlate with reported case severity across continents
+* Death-to-case ratio varies significantly by region, flagging healthcare disparity
+* Case burden concentrated unevenly across continents
+* Missing/inconsistent data in reporting fields (e.g., continent) across countries
+
+## 6. Outcome
 
 The project demonstrates the complete data analysis workflow, including data cleaning, preprocessing, exploratory data analysis, and visualization. It provides meaningful insights into COVID-19 data and strengthens practical knowledge of Python-based data analytics techniques.
